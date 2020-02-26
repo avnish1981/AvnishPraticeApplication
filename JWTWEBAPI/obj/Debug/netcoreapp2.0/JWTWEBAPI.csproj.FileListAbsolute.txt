@@ -1,0 +1,11 @@
+F:\Avnish\JWTWEBAPI\JWTWEBAPI\bin\Debug\netcoreapp2.0\JWTWEBAPI.deps.json
+F:\Avnish\JWTWEBAPI\JWTWEBAPI\bin\Debug\netcoreapp2.0\JWTWEBAPI.runtimeconfig.json
+F:\Avnish\JWTWEBAPI\JWTWEBAPI\bin\Debug\netcoreapp2.0\JWTWEBAPI.runtimeconfig.dev.json
+F:\Avnish\JWTWEBAPI\JWTWEBAPI\bin\Debug\netcoreapp2.0\JWTWEBAPI.dll
+F:\Avnish\JWTWEBAPI\JWTWEBAPI\bin\Debug\netcoreapp2.0\JWTWEBAPI.pdb
+F:\Avnish\JWTWEBAPI\JWTWEBAPI\obj\Debug\netcoreapp2.0\JWTWEBAPI.csprojAssemblyReference.cache
+F:\Avnish\JWTWEBAPI\JWTWEBAPI\obj\Debug\netcoreapp2.0\JWTWEBAPI.csproj.CoreCompileInputs.cache
+F:\Avnish\JWTWEBAPI\JWTWEBAPI\obj\Debug\netcoreapp2.0\JWTWEBAPI.AssemblyInfoInputs.cache
+F:\Avnish\JWTWEBAPI\JWTWEBAPI\obj\Debug\netcoreapp2.0\JWTWEBAPI.AssemblyInfo.cs
+F:\Avnish\JWTWEBAPI\JWTWEBAPI\obj\Debug\netcoreapp2.0\JWTWEBAPI.dll
+F:\Avnish\JWTWEBAPI\JWTWEBAPI\obj\Debug\netcoreapp2.0\JWTWEBAPI.pdb
